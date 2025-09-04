@@ -1,0 +1,1 @@
+Voglio censire tutti i libri che ho in casa. Tramite questo programma in python e l'uso di un lettore di codice a barre, identifico il libro tramite il codice ISBN. Tramite l'API di Google Libri cerco le informazioni relative al libro. Se il libro non è presente sul mio DB lo aggiungo.
